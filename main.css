@@ -15,13 +15,13 @@
 html{
     font-size: 10px;
     font-family: 'Gotham Medium';
-    color: #FF1493;
+    color: #000000;
 }
 
 body{
     width: 100%;
     height: 100%;
-    background: #FFFFFF  no-repeat center fixed;
+    background: #FF69B4  no-repeat center fixed;
     background-size: cover;
 }
 
