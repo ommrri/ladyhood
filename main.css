@@ -37,13 +37,13 @@ a{
 address { 
     display: block;
     font-style: normal;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
   } 
 
 p{
     font-family: 'Gotham Medium';
     line-height: .6cm;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-weight: 200;
 }
 
@@ -225,7 +225,7 @@ li{
 
 .landing-text h1{
     font-size: 20rem;
-    font-family: 'Arial',sans-serif;
+    font-family: 'The Historia Demo',sans-serif;
     background: linear-gradient(#FFC0CB,#ff5a3dcb);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
